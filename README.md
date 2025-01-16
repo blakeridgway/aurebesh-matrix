@@ -2,7 +2,7 @@
 
 A simple Python program that creates a matrix-like effect using the Aurebesh font. Characters fall down the screen at varying speeds, creating a visually dynamic display reminiscent of the iconic "Matrix" digital rain.
 
-![](images/program.gif)
+![](assets/images/program.gif)
 
 ## Features
 
@@ -13,7 +13,7 @@ A simple Python program that creates a matrix-like effect using the Aurebesh fon
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10+
 
 ## Installation
 
@@ -47,7 +47,7 @@ A simple Python program that creates a matrix-like effect using the Aurebesh fon
 4. **Install Pygame**:
 
    ```bash
-   pip install pygame
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -55,7 +55,7 @@ A simple Python program that creates a matrix-like effect using the Aurebesh fon
 1. Run the program:
 
    ```bash
-   python aurebesh_matrix.py
+   python app.py
    ```
 
 2. Press the close button on the window to exit the program.
