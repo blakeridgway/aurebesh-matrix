@@ -9,7 +9,7 @@ screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Aurebesh Matrix")
 
 font_size = 20
-font = pygame.font.Font("Aurebesh.otf", font_size)
+font = pygame.font.Font("assets/font/Aurebesh.otf", font_size)
 
 black = (0, 0, 0)
 green = (0, 255, 0)
